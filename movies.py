@@ -435,4 +435,17 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "spike lee",
         ],
     )
+     (
+        "black panther",
+        "ryan coogler",
+        2018,
+        [
+            "Chadwick Boseman",
+            "Michael B. Jordan",
+            "Lupita Nyong'o",
+            "Danai Gurira",
+            "Martin Freeman",
+            "Daniel Kaluuya",
+        ],
+    )
 ]
